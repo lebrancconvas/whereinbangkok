@@ -13,6 +13,6 @@ Web Server : Apache 2.4.29<br>
 Operating System : Windows Server<br>
 Web Server Extension : OpenSSL 1.1.0g</p>
 <h2 id="editors-tool">Editor’s Tool</h2>
-<p>Local Server : Xampp<br>
+<p>Local Server : Xampp Control Panel v3.2.2<br>
 IDE : Visual Studio Code</p>
 
